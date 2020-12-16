@@ -1,0 +1,19 @@
+{
+  "name": "elres",
+  "version": "1.0.0",
+  "description": "This is my work to practic PM01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoShindows/elress.git"
+  },
+  "author": "NekoShindows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NekoShindows/elress/issues"
+  },
+  "homepage": "https://github.com/NekoShindows/elress#readme"
+}
